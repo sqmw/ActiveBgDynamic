@@ -76,10 +76,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 0,
         "resizable": true,
         "title": "active_dynamic_bg",
-        "width": 800
+        "width": 0
       }
     ]
   }
